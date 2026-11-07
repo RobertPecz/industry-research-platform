@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://elba.hu/blog/interju-egy-aktiv-elba-felhasznalo-kivitelezovel-emecz-viktorral/",
+    "source": "ELBA – kivitelezői interjú",
+    "title": "Ajánlatadás: kimaradó tételek – ellenőrzött kutatói jegyzet",
+    "checked_at": "2026-11-07",
+    "published": null,
+    "status": "source_checked",
+    "locator": "A korábbi ajánlatadási problémákra vonatkozó kérdés és válasz; az előző eszközöket ismertető válasz.",
+    "text": "Kutatói parafrázis. A megkérdezett generálkivitelező korábban táblázatos sablont és költségvetési programot használt. Beszámolója szerint ajánlati tételek kimaradása csak kivitelezés közben derült ki, utólagos megrendelői egyeztetést igényelve.",
+    "topic": "ajánlatadás",
+    "excerpt": "Beszámolója szerint ajánlati tételek kimaradása csak kivitelezés közben derült ki, utólagos megrendelői egyeztetést igényelve.",
+    "limitations": "Névvel és céggel közölt saját tapasztalat, de szoftverszállítói ügyfélinterjú. A szerepkör a közlésen belül ellenőrzött, külső nyilvántartással és eredeti ajánlatokkal nem. Nem független teljesítménymérés. Publikációs dátum nem egyértelmű.",
+    "next_step": "Anonimizált eredeti és javított ajánlat összehasonlítása; a kimaradás gyakoriságának és korrekciós idejének mérése."
+  },
+  {
+    "url": "https://ikont.hu/interju-juhasz-sandor-peterrel-az-ikont-ugyvezetojevel-es-tarsalapitojaval/",
+    "source": "iKont – alapítói interjú",
+    "title": "Helyszíni koordináció és kontroll – ellenőrzött kutatói jegyzet",
+    "checked_at": "2026-11-07",
+    "published": null,
+    "status": "source_checked",
+    "locator": "2. kérdés: korábbi kivitelezői tapasztalat; 4. kérdés: munkaterületi problémák.",
+    "text": "Kutatói parafrázis. Az interjúalany korábbi kivitelező vállalkozóként ír a munkaterület irányításáról. Saját beszámolója szerint a reggeli feladategyeztetés ellenére a végrehajtás eltért a megbeszéltektől; az ellentmondó helyszíni információk tisztázása vezetői időt igényelt.",
+    "topic": "koordináció",
+    "excerpt": "Saját beszámolója szerint a reggeli feladategyeztetés ellenére a végrehajtás eltért a megbeszéltektől; az ellentmondó helyszíni információk tisztázása vezetői időt igényelt.",
+    "limitations": "Névvel közölt első személyű visszatekintés, a saját terméket bemutató alapítói interjúban. Erős értékesítési érdek; a probléma gyakorisága és költsége nincs függetlenül mérve. Publikációs dátum nem egyértelmű.",
+    "next_step": "Napi feladatkiadás és visszajelzés összevetése egy aktuális kivitelezésen; eltérések és egyeztetési idő naplózása."
+  },
+  {
+    "url": "https://www.reddit.com/r/epitoipar_hun/comments/1v48dyd/",
+    "checked_at": "2026-11-07", "status": "unavailable",
+    "locator": "Korábbi kutatási jelölt újranyitása.",
+    "limitations": "A jelen ellenőrzésben a webes megnyitás nem sikerült (Cache miss). A korábbi jegyzet alapján nem növeltük a validált minta elemszámát.",
+    "next_step": "Újbóli elérés és a szerző saját tapasztalatának, valamint az értékesítési érdekeltségnek az ellenőrzése."
+  },
+  {
+    "url": "https://bonsite.hu/hu/iparag/epitoipar",
+    "checked_at": "2026-11-07", "status": "not_first_hand",
+    "locator": "Iparági termékoldal és esettanulmány-ajánló.",
+    "limitations": "A megnyitott oldal szállítói termékbemutató; nem azonosított, közvetlen kivitelezői interjú. Az adminisztrációcsökkenési marketingállítást nem vettük át igazolt eredményként.",
+    "next_step": "Azonosítható ügyfél, mérési módszer és elsődleges beszámoló szükséges."
+  },
+  {
+    "url": "https://vallalkozzdigitalisan.mkik.hu/tudastar/adatlap?category=tanulmanyok&id=5084",
+    "checked_at": "2026-11-07", "status": "unavailable",
+    "locator": "Keresőben talált Clean Forever esettanulmány megnyitása.",
+    "limitations": "A teljes oldal megnyitása Cache miss hibával sikertelen. Keresési kivonat alapján nem validáltunk tapasztalatot.",
+    "next_step": "A teljes esettanulmány és a megszólaló szerepének ellenőrzése."
+  },
+  {
+    "url": "https://dynago.hu/van-amit-csak-evekkel-tapasztalattal-es-futo-rendszerekkel-lehet-kivaltani-hol-csuszhat-el-az-epitoipari-erp-rendszerek-bevezetese/",
+    "checked_at": "2026-11-07", "status": "unavailable",
+    "locator": "Építőipari ERP-interjú megnyitása.",
+    "limitations": "Az oldal megnyitása időtúllépéssel sikertelen; a keresési kivonat tanácsadói interjúra utal, nem közvetlen kivitelezői beszámolóra.",
+    "next_step": "Teljes szöveg ellenőrzése; tanácsadói tapasztalat elkülönítése a kivitelezői beszámolótól."
+  }
+]

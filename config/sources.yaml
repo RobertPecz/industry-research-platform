@@ -1,0 +1,105 @@
+- name: ÉVOSZ
+  status: metadata_only
+  urls:
+  - https://evosz.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.
+- name: E-építés
+  status: metadata_only
+  urls:
+  - https://www.e-epites.hu/gyik
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.
+- name: KSH
+  status: allowed
+  urls:
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2401.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2402.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2403.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2404.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2405.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2406.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2407.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2408.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2409.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2410.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2411.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2412.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2501.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2502.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2503.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2504.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2505.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2506.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2507.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2508.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2509.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2510.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2511.html
+  - https://www.ksh.hu/gyorstajekoztatok/epi/epi2512.html
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Feltételek letöltve és elolvasva; robots.txt csak /apps/ tiltás. Forrásmegjelölés
+    kötelező.
+  max_chars: 20000
+  license: CC BY 4.0
+  terms_url: https://www.ksh.hu/copyright
+- name: Magyar Építők
+  status: metadata_only
+  urls:
+  - https://magyarepitok.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.
+- name: Magyar Építő
+  status: metadata_only
+  urls:
+  - https://www.maeponline.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.
+- name: MÉK
+  status: metadata_only
+  urls:
+  - https://mek.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.
+- name: MMK
+  status: blocked
+  urls:
+  - https://www.mmk.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Webes megnyitás HTTP 403; nincs megkerülés.
+- name: Lechner
+  status: metadata_only
+  urls:
+  - https://lechnerkozpont.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.
+- name: Építési jog
+  status: metadata_only
+  urls:
+  - https://epitesijog.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.
+- name: MKIK
+  status: metadata_only
+  urls:
+  - https://mkik.hu/
+  checked_at: '2026-11-07'
+  industry: construction_hu
+  decision: Nyilvános oldal megnyitva; újrafelhasználási és gépi gyűjtési engedély
+    nem tisztázott.

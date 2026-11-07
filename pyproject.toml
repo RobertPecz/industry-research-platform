@@ -1,0 +1,19 @@
+[project]
+name = "industry-research"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["httpx>=0.28", "beautifulsoup4>=4.13", "pypdf>=5", "pyyaml>=6"]
+[project.optional-dependencies]
+gemini = ["google-genai>=1.75.0,<2"]
+[project.scripts]
+research = "industry_research.cli:main"
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[dependency-groups]
+dev = ["pytest", "ruff", "mypy", "types-PyYAML", "types-beautifulsoup4"]
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

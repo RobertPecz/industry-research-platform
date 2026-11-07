@@ -1,0 +1,55 @@
+{
+  "documents": 27,
+  "sources": 4,
+  "missing_publication_dates": 2,
+  "attempts": {
+    "blocked": 28,
+    "error": 24,
+    "stored": 24
+  },
+  "source_audits": {
+    "allowed": 1,
+    "blocked": 1,
+    "metadata_only": 8
+  },
+  "verified_first_hand_versions": 0,
+  "source_checked_first_hand_versions": 2,
+  "matrix": [
+    {
+      "topic": "adminisztráció",
+      "actor": "contractor",
+      "contents": 1,
+      "verified": 0
+    },
+    {
+      "topic": "ajánlatadás",
+      "actor": "contractor",
+      "contents": 1,
+      "verified": 0
+    },
+    {
+      "topic": "integráció",
+      "actor": "contractor",
+      "contents": 1,
+      "verified": 0
+    },
+    {
+      "topic": "koordináció",
+      "actor": "contractor",
+      "contents": 1,
+      "verified": 0
+    },
+    {
+      "topic": "koordináció",
+      "actor": "unknown",
+      "contents": 1,
+      "verified": 0
+    },
+    {
+      "topic": "pénzügy",
+      "actor": "contractor",
+      "contents": 1,
+      "verified": 0
+    }
+  ]
+}

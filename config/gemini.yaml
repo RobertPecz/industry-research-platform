@@ -1,0 +1,7 @@
+# Nem kapcsol be API-hívást. A modell elérhetőségét a futás ellenőrzi.
+model: gemini-3.1-flash-lite
+timeout_seconds: 30
+max_requests: 10
+max_attempts: 3
+chunk_chars: 4000
+max_document_chars: 40000

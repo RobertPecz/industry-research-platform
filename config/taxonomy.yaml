@@ -1,0 +1,12 @@
+version: '1'
+industry: construction_hu
+topics:
+  adminisztráció: [adminisztr, dokumentáció]
+  koordináció: [alvállalkoz, egyeztetés]
+  pénzügy: [késedelmes, kintlévőség, lánctartoz]
+  e-napló: [e-napló, építési napló]
+  ajánlatadás: [árajánlat, ajánlatadás, ajánlat adás, költségvetés]
+  anyagbeszerzés: [anyagbeszerz, anyaghiány]
+  változáskezelés: [pótmunka, tervmódosítás, változáskezel]
+  átadás: [műszaki átadás, teljesítésigazol]
+  munkaszervezés: [munkaszervez, munkaidő, munkabeoszt]

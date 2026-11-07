@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://evosz.hu/hirek/1085-%C3%A9p%C3%ADt%C5%91ipari-helyzet%C3%A9rt%C3%A9kel%C3%A9s-%C3%A9s-2025-%C3%A9vi-v%C3%A1rakoz%C3%A1sok-konjunkt%C3%BArafelm%C3%A9r%C3%A9s-%C3%B6sszefoglal%C3%B3",
+    "source": "ÉVOSZ",
+    "title": "Építőipari helyzetértékelés és 2025. évi várakozások – kutatási jegyzet",
+    "published": "2025-04-16",
+    "accessed": "2026-11-07",
+    "storage_mode": "research_note",
+    "kind": "survey",
+    "text": "Kutatói parafrázis, nem eredeti forrásszöveg. Az ÉVOSZ 400 céget keresett meg; ez nem azonos a válaszadók számával. A válaszadók között felülreprezentáltak a közepes és nagyvállalatok. A válaszadók 90%-a tapasztalt késedelmes partnerfizetést az előző fél évben. A magas adminisztrációs terheket 44,4% jelölte akadályként. A digitális átállás költsége 85,2%-nak jelentett kihívást; a meglévő rendszerek kompatibilitása és a belső készségek hiánya is szerepelt az akadályok között. Ez egy felmérés, három témával; nem három független bizonyítékforrás.",
+    "findings": [
+      {"topic":"pénzügy", "excerpt":"A válaszadók 90%-a tapasztalt késedelmes partnerfizetést az előző fél évben.", "hypothesis":"A lejárt számlák és a teljesítésigazolások összerendelése segítheti az utánkövetést.", "inputs":"Számlák, fizetési határidők, teljesítésigazolások; hozzáférés még nem igazolt.", "risks":"A fizetési képesség hiányát a szoftver nem oldja meg.", "validation":"Öt kivitelezőnél mérni az utánkövetési időt és a késés okát."},
+      {"topic":"adminisztráció", "excerpt":"A magas adminisztrációs terheket 44,4% jelölte akadályként.", "hypothesis":"Ismételten bekért projektadatok ellenőrzött átemelése csökkentheti a kézi adatbevitelt.", "inputs":"Űrlapok és projektadatok; az ismétlődés még nincs felmérve.", "risks":"A felmérés nem azonosít konkrét ismételt adatbeviteli lépést.", "validation":"Építésvezetők egyhetes adminisztrációs naplója és dokumentumminta."},
+      {"topic":"integráció", "excerpt":"A digitális átállás költsége 85,2%-nak jelentett kihívást; a meglévő rendszerek kompatibilitása és a belső készségek hiánya is szerepelt az akadályok között.", "hypothesis":"Meglévő rendszerek közötti kis adatkapcsolat kisebb bevezetési terhet jelenthet.", "inputs":"Használt rendszerek listája, exportok és API-hozzáférések; ismeretlen.", "risks":"Integrációs költség és oktatási igény; nincs igazolt fizetési hajlandóság.", "validation":"Három eltérő méretű kivitelező rendszertérképe és folyamatmegfigyelése."}
+    ]
+  }
+]

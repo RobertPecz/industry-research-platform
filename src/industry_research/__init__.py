@@ -1,0 +1,1 @@
+"""Bizonyítékalapú iparági kutatás."""
